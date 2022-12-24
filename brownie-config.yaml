@@ -1,4 +1,3 @@
-
 dependencies:
   - OpenZeppelin/openzeppelin-contracts@4.8.0
 compiler:
@@ -21,4 +20,3 @@ networks:
     verify: True
 wallets:
   from_key: ${PRIVATE_KEY}
-  
